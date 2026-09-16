@@ -8,7 +8,7 @@
 
 Aplicativo de organização financeira pessoal, no Android, no iOS e no navegador.
 
-<a href="https://nubi-kohl.vercel.app"><img src="https://img.shields.io/badge/ACESSAR_DEMONSTRAÇÃO-0F1B2D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar demonstração" /></a>
+<a href="https://nubi-kohl.vercel.app"><img src="https://img.shields.io/badge/ABRIR_O_PLUNO-0F1B2D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir o Pluno" /></a>
 
 <sub>Sem cadastro: toque em <code>Continuar sem conta</code> e os dados ficam só no seu aparelho.</sub>
 
@@ -56,9 +56,9 @@ Cada compra é registrada uma vez, e o app cuida do resto: soma no mês certo, d
 
 ---
 
-## Demonstração
+## Como acessar
 
-Não precisa de cadastro nem de credenciais de teste. Abra a [versão web](https://nubi-kohl.vercel.app), escolha **Continuar sem conta** e explore o app inteiro — os dados ficam salvos só no seu navegador, e criar uma conta depois migra tudo para a nuvem.
+Não precisa instalar nada para começar. Abra a [versão web](https://nubi-kohl.vercel.app), escolha **Continuar sem conta** e o app já funciona por inteiro — os dados ficam salvos só no seu navegador, e criar uma conta depois migra tudo para a nuvem.
 
 O app também pode ser instalado direto do navegador (*Adicionar à tela de início* / *Instalar*) e passa a abrir sem a barra de endereço.
 
@@ -83,5 +83,5 @@ Uma única base de código no Android, no iOS e no navegador.
 ---
 
 <div align="center">
-<sub>Repositório demonstrativo • Código-fonte proprietário</sub>
+<sub>Repositório de apresentação • Código-fonte proprietário</sub>
 </div>
