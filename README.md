@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="assets/pluno-logo.png" width="76" alt="Pluno" />
+<img src="assets/pluno-banner.png" width="100%" alt="Pluno — o mês inteiro em uma tela: o que entrou, o que saiu e o que já está comprometido." />
 
-# Pluno
-
-### O mês inteiro em uma tela: o que entrou, o que saiu e o que já está comprometido.
-
-Aplicativo de organização financeira pessoal, no Android, no iOS e no navegador.
+<br />
+<br />
 
 <a href="https://nubi-kohl.vercel.app"><img src="https://img.shields.io/badge/ABRIR_O_PLUNO-0F1B2D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir o Pluno" /></a>
 
