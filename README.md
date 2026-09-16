@@ -62,9 +62,6 @@ Não precisa de cadastro nem de credenciais de teste. Abra a [versão web](https
 
 O app também pode ser instalado direto do navegador (*Adicionar à tela de início* / *Instalar*) e passa a abrir sem a barra de endereço.
 
-> [!WARNING]
-> Ambiente de demonstração. Utilize apenas valores fictícios durante os testes.
-
 <br />
 
 ---
