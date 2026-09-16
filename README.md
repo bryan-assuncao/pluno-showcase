@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="assets/nubi-logo.png" width="84" alt="Nubi" />
+  <img src="assets/pluno-logo.png" width="84" alt="Pluno" />
 
-  <h1>Nubi</h1>
+  <h1>Pluno</h1>
 
   <h3>O mês inteiro em uma tela: o que entrou, o que saiu e o que já está comprometido.</h3>
 
@@ -13,7 +13,7 @@
 
   <br />
 
-  <a href="https://nubi-kohl.vercel.app"><img src="https://img.shields.io/badge/ACESSAR_DEMONSTRAÇÃO-5B4AE8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar demonstração" /></a>
+  <a href="https://nubi-kohl.vercel.app"><img src="https://img.shields.io/badge/ACESSAR_DEMONSTRAÇÃO-0F1B2D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar demonstração" /></a>
 
   <sub>
     🔓 <strong>Sem cadastro:</strong>
@@ -23,11 +23,7 @@
   <br />
   <br />
 
-<a href="#-visão-geral">Visão Geral</a>
- •  <a href="#-recursos">Recursos</a>
- •  <a href="#-telas">Telas</a>
- •  <a href="#-acesso-à-demonstração">Demonstração</a>
- •  <a href="#-tecnologias">Tecnologias</a>
+<a href="#-por-que-eu-criei-o-pluno">Por que criei</a> • <a href="#-visão-geral">Visão Geral</a> • <a href="#-recursos">Recursos</a> • <a href="#-telas">Telas</a> • <a href="#-acesso-à-demonstração">Demonstração</a> • <a href="#-tecnologias">Tecnologias</a>
 
 </div>
 
@@ -35,9 +31,25 @@
 
 ---
 
+## 💡 Por que eu criei o Pluno
+
+Eu estava com dificuldade para organizar minhas finanças.
+
+Comecei com uma **planilha de Excel**, e por bastante tempo ela deu conta. O problema apareceu quando quis anotar tudo o que realmente importava em cada compra: a forma de pagamento que usei, qual cartão passei, em qual estabelecimento comprei, em que dia foi. Cada lançamento virava uma pequena tarefa, e eu perdia um tempo enorme só preenchendo célula.
+
+No celular ficava pior ainda. Mexer em planilha numa tela pequena é um exercício de paciência — e é justamente no celular que a gente está na hora em que a compra acontece.
+
+Então fui **testar aplicativos**. Testei vários, e nenhum atendia tudo o que eu precisava: ou registrava rápido mas guardava pouca informação, ou guardava tudo mas exigia dez toques por compra.
+
+No fim decidi criar o meu. O **Pluno** nasceu dessa necessidade simples: um app onde eu consigo colocar **todas as informações que quero, rápido e fácil**, e enxergar o mês inteiro organizado sem depender de planilha nenhuma.
+
+<br />
+
+---
+
 ## 📱 Visão Geral
 
-O **Nubi** foi desenvolvido para responder, sem planilha, a pergunta que aparece todo mês: **quanto ainda sobra?**
+O **Pluno** responde, sem planilha, a pergunta que aparece todo mês: **quanto ainda sobra?**
 
 Cada compra é registrada uma vez — no Pix ou no cartão, fixa, variável ou parcelada — e o app cuida do resto: soma no mês certo, distribui as parcelas nos meses seguintes, agrupa as compras nas faturas e mostra o que já está comprometido antes mesmo do mês começar.
 
@@ -46,7 +58,7 @@ O objetivo é substituir os controles espalhados entre **planilhas, anotações 
 <br />
 
 <div align="center">
-  <img src="assets/nubi-mobile.png" width="100%" alt="Resumo, lançamentos e pagamentos do Nubi" />
+  <img src="assets/pluno-mobile.png" width="100%" alt="Resumo, lançamentos e pagamentos do Pluno" />
 </div>
 
 <br />
@@ -146,7 +158,7 @@ Mais de um contexto financeiro na mesma conta, compartilhado com quem você quis
 * Múltiplos espaços independentes
 * Troca rápida do espaço ativo
 * Convites por e-mail
-* Dados compartilhados entre contas Nubi
+* Dados compartilhados entre contas Pluno
 * Cartões, categorias e limites por espaço
 
 </td>
@@ -202,21 +214,21 @@ Os dados são seus, e a conta vale por pessoa.
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-  <img src="assets/nubi-resumo.png" width="100%" alt="Tela de resumo do Nubi" />
+  <img src="assets/pluno-resumo.png" width="100%" alt="Tela de resumo do Pluno" />
   <br />
   <strong>Resumo</strong>
   <br />
   <sub>Sobra do mês, Pix, cartões e limites.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-  <img src="assets/nubi-lancamentos.png" width="100%" alt="Tela de lançamentos do Nubi" />
+  <img src="assets/pluno-lancamentos.png" width="100%" alt="Tela de lançamentos do Pluno" />
   <br />
   <strong>Lançamentos</strong>
   <br />
   <sub>Todas as compras do mês, com busca e filtros.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-  <img src="assets/nubi-pagamentos.png" width="100%" alt="Tela de pagamentos do Nubi" />
+  <img src="assets/pluno-pagamentos.png" width="100%" alt="Tela de pagamentos do Pluno" />
   <br />
   <strong>Pagamentos</strong>
   <br />
@@ -229,7 +241,7 @@ Os dados são seus, e a conta vale por pessoa.
 
 ## ⚡ Acesso à Demonstração
 
-Quer conhecer o Nubi na prática? Não precisa de cadastro nem de credenciais de teste.
+Quer conhecer o Pluno na prática? Não precisa de cadastro nem de credenciais de teste.
 
 Abra a versão web, escolha **Continuar sem conta** e explore o app inteiro com os dados salvos apenas no seu navegador.
 
@@ -259,7 +271,7 @@ Abra a versão web, escolha **Continuar sem conta** e explore o app inteiro com 
 
 ## 🛠 Tecnologias
 
-O Nubi roda a partir de uma única base de código no Android, no iOS e no navegador.
+O Pluno roda a partir de uma única base de código no Android, no iOS e no navegador.
 
 <div align="center">
 
@@ -283,12 +295,12 @@ O Nubi roda a partir de uma única base de código no Android, no iOS e no naveg
 
 <div align="center">
 
-  <img src="assets/nubi-logo.png" width="40" alt="Nubi" />
+  <img src="assets/pluno-logo.png" width="40" alt="Pluno" />
 
   <br />
   <br />
 
-<strong>Nubi</strong>
+<strong>Pluno</strong>
 
   <br />
 
