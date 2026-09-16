@@ -22,15 +22,19 @@
 
 ## Por que eu criei o Pluno
 
-Eu estava com dificuldade para organizar minhas finanças.
+Eu queria ter um controle melhor das minhas finanças, então comecei usando uma planilha de Excel.
 
-Comecei com uma **planilha de Excel**, e por bastante tempo ela deu conta. O problema apareceu quando quis anotar tudo o que realmente importava em cada compra: a forma de pagamento que usei, qual cartão passei, em qual estabelecimento comprei, em que dia foi. Cada lançamento virava uma pequena tarefa, e eu perdia um tempo enorme só preenchendo célula.
+Durante um tempo funcionou, mas comecei a sentir falta de registrar mais detalhes das minhas compras. Queria saber qual cartão usei, a forma de pagamento, onde comprei, a data e outras informações que me ajudassem a entender melhor meus gastos.
 
-No celular ficava pior ainda. Mexer em planilha numa tela pequena é um exercício de paciência — e é justamente no celular que a gente está na hora em que a compra acontece.
+Só que quanto mais informações eu colocava, mais chato ficava manter a planilha atualizada. E como eu faço praticamente tudo pelo celular, ter que abrir uma planilha e preencher várias células toda vez que fazia uma compra simplesmente não era prático.
 
-Então fui **testar aplicativos**. Testei vários, e nenhum atendia tudo o que eu precisava: ou registrava rápido mas guardava pouca informação, ou guardava tudo mas exigia dez toques por compra.
+Então comecei a testar alguns aplicativos de finanças. O problema é que nunca encontrava um que tivesse o equilíbrio que eu procurava. Alguns eram simples e rápidos, mas faltavam informações. Outros eram completos, mas registrar uma compra era complicado demais.
 
-No fim decidi criar o meu. O **Pluno** nasceu dessa necessidade simples: um app onde eu consigo colocar **todas as informações que quero, rápido e fácil**, e enxergar o mês inteiro organizado sem depender de planilha nenhuma.
+Foi por isso que decidi criar o Pluno.
+
+A ideia era fazer algo que eu realmente usaria no dia a dia: abrir o app, registrar uma compra rapidamente, colocar os detalhes que importam e pronto.
+
+Sem planilhas e sem transformar cada gasto em uma tarefa.
 
 <br />
 
