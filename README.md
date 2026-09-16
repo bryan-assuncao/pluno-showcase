@@ -5,7 +5,7 @@
 <br />
 <br />
 
-<a href="https://nubi-kohl.vercel.app"><img src="https://img.shields.io/badge/ABRIR_O_PLUNO-0F1B2D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir o Pluno" /></a>
+<a href="https://nubi-kohl.vercel.app"><img src="https://img.shields.io/badge/ABRIR_O_PLUNO-0F1B2D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir o Pluno" /></a> <img src="https://img.shields.io/badge/EM_BREVE_NA_GOOGLE_PLAY-55637A?style=for-the-badge&logo=googleplay&logoColor=white" alt="Em breve na Google Play" />
 
 <sub>Sem cadastro: toque em <code>Continuar sem conta</code> e os dados ficam só no seu aparelho.</sub>
 
