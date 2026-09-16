@@ -42,16 +42,19 @@ Sem planilhas e sem transformar cada gasto em uma tarefa.
 
 ## O que ele faz
 
-Cada compra é registrada uma vez, e o app cuida do resto: soma no mês certo, distribui as parcelas nos meses seguintes e mostra o que já está comprometido antes mesmo do mês começar.
+A ideia do Pluno é que você não precise ficar fazendo conta ou organizando tudo manualmente.
 
-- **Lançamento em segundos** — Pix ou cartão, fixa, variável ou parcelada, com estabelecimento, categoria e data.
-- **Resumo do mês** — recebido, gasto e sobra, divididos entre Pix e cartão, cartão a cartão.
-- **Parcelas no lugar certo** — uma compra em 3x já nasce nos três meses, com a parcela em andamento à vista.
-- **Faturas e pagamentos** — o que vence, o que já foi pago e quais compras compõem cada fatura.
-- **Renda e limites** — salário recorrente, entradas extras e teto mensal por cartão ou categoria.
-- **Projeção** — quanto dos próximos seis meses já está comprometido.
-- **Espaços compartilhados** — mais de um contexto financeiro na mesma conta, com convite por e-mail.
-- **Seus dados, seus** — uso completo sem cadastro, com tudo guardado apenas no aparelho.
+Você registra uma compra uma vez e o app cuida do resto. Se for parcelada, por exemplo, as parcelas já aparecem nos próximos meses automaticamente. Assim, você consegue saber não só quanto gastou agora, mas também quanto do seu dinheiro já está comprometido nos meses seguintes.
+
+Na tela do mês, você consegue ver quanto recebeu, quanto gastou e quanto sobrou. Também dá para separar os gastos feitos por Pix dos gastos no cartão e acompanhar cada cartão individualmente.
+
+As faturas também ficam organizadas dentro do app. Você consegue ver o que ainda vai vencer, o que já foi pago e quais compras fazem parte de cada fatura.
+
+Além dos gastos, também dá para cadastrar seu salário e outras entradas de dinheiro, definir limites para cartões ou categorias e acompanhar quanto dos próximos seis meses já está comprometido.
+
+Se você precisar separar suas finanças, pode criar espaços diferentes dentro da mesma conta e até compartilhar um deles com outra pessoa por e-mail.
+
+E você não precisa criar uma conta para usar o Pluno. Dá para usar o app normalmente sem cadastro, mantendo as informações salvas apenas no seu próprio aparelho.
 
 <br />
 
